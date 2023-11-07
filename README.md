@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...in standard 6
 - 💞️ I’m looking to collaborate on ...apple
-- 📫 How to reach me ...IDK...i am a 11 year old child
+- 📫 How to reach me ...IDK...i am a 11 year old child.
 
 <!---
 RitvikSayana/RitvikSayana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
